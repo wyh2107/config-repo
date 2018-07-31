@@ -15,3 +15,6 @@ spring:
     show-sql: true
 env:
   test5
+girl:
+  name: lucy
+  sex: female
