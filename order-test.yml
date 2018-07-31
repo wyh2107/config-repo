@@ -17,4 +17,4 @@ env:
   test5
 person:
   name: lucy
-  sex: female
+  sex: male
